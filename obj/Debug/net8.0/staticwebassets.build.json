@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "jG7HZlVvA625qJcLFODdhyPAbTWzRs1Zt8ReTydFI9s=",
+  "Source": "PostgresAndEFCore",
+  "BasePath": "_content/PostgresAndEFCore",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
